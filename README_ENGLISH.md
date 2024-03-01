@@ -1,10 +1,12 @@
 # NGINX Reverse Proxy Installer
 
 ## Installation
+
 ```
-bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/NginxReverseProxy/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/SSaeedhoseini/NginxReverseProxy/main/install.sh)
 ```
-![20](https://github.com/Ptechgithub/configs/blob/main/media/20.jpg)
+
+![20](https://github.com/SSaeedhoseini/configs/blob/main/media/20.jpg)
 
 ---
 
@@ -14,6 +16,7 @@ Obtain an SSL certificate and install a free website template.
 ---
 
 ## Usage
+
 First, create an A record in your CDN, such as Cloudflare, and point your domain or subdomain to the server's IP address and enable the proxy option.
 
 In the Network settings section, enable the GRPC option.
@@ -42,28 +45,30 @@ For use in the `x-ui` panel, simply follow the steps below for grpc and ws:
 
 ### Panel
 
-![21](https://raw.githubusercontent.com/Ptechgithub/configs/main/media/21.jpg)
+![21](https://raw.githubusercontent.com/SSaeedhoseini/configs/main/media/21.jpg)
 
 ---
 
 ### Client
 
-![23](https://raw.githubusercontent.com/Ptechgithub/configs/main/media/23.gif)
+![23](https://raw.githubusercontent.com/SSaeedhoseini/configs/main/media/23.gif)
 
 ---
+
 ---
+
 ---
 
 ## Configuring GRPC
 
 ### Panel
 
-![22](https://raw.githubusercontent.com/Ptechgithub/configs/main/media/22.jpg)
+![22](https://raw.githubusercontent.com/SSaeedhoseini/configs/main/media/22.jpg)
 
 ---
 
 ### Client
 
-![24](https://raw.githubusercontent.com/Ptechgithub/configs/main/media/24.gif)
+![24](https://raw.githubusercontent.com/SSaeedhoseini/configs/main/media/24.gif)
 
 [website-templates](https://github.com/learning-zone)
